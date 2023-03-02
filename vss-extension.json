@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "Achmea Stage Widget",
     "description": "testen eigen widget maken azure devops",
-    "publisher": "Laurens van Lee",
+    "publisher": "LaurensvanLee",
     "categories": ["Azure Boards"],
     "targets": [
         {
